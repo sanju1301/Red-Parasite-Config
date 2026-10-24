@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "id": "welcome-2026-10-25",
+  "title": "Welcome to Red Parasite",
+  "message": "Live channels are ready. Pull down on the Watch screen whenever you want to refresh the channel list.",
+  "buttonText": "Close",
+  "dismissible": true,
+  "showOnce": false
+}
